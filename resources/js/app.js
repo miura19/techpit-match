@@ -15,4 +15,4 @@
  
  require('./jTinder'); //追加
  
- 
+ require('./chat');
